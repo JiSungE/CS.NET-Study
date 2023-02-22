@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Account>
+    <ACCID>1000</ACCID>
+    <CID>1</CID>
+    <ACCBALANCE>33</ACCBALANCE>
+    <ACCDATE>2022-10-26T15:56:54.7262116+09:00</ACCDATE>
+  </Account>
+</DocumentElement>

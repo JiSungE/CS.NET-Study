@@ -1,0 +1,16 @@
+C:\Users\82109\Documents\workspace\비트고급\C#\1013_Client\1013_Client\bin\Debug\1013_Client.exe.config
+C:\Users\82109\Documents\workspace\비트고급\C#\1013_Client\1013_Client\bin\Debug\1013_Client.exe
+C:\Users\82109\Documents\workspace\비트고급\C#\1013_Client\1013_Client\bin\Debug\1013_Client.pdb
+C:\Users\82109\Documents\workspace\비트고급\C#\1013_Client\1013_Client\obj\Debug\1013_Client.csproj.AssemblyReference.cache
+C:\Users\82109\Documents\workspace\비트고급\C#\1013_Client\1013_Client\obj\Debug\1013_Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\82109\Documents\workspace\비트고급\C#\1013_Client\1013_Client\obj\Debug\1013_Client.csproj.CoreCompileInputs.cache
+C:\Users\82109\Documents\workspace\비트고급\C#\1013_Client\1013_Client\obj\Debug\1013_Client.exe
+C:\Users\82109\Documents\workspace\비트고급\C#\1013_Client\1013_Client\obj\Debug\1013_Client.pdb
+C:\Users\82109\Documents\workspace\비트고급\C#\1013_2Client\1013_Client\bin\Debug\1013_Client.exe.config
+C:\Users\82109\Documents\workspace\비트고급\C#\1013_2Client\1013_Client\bin\Debug\1013_Client.exe
+C:\Users\82109\Documents\workspace\비트고급\C#\1013_2Client\1013_Client\bin\Debug\1013_Client.pdb
+C:\Users\82109\Documents\workspace\비트고급\C#\1013_2Client\1013_Client\obj\Debug\1013_Client.csproj.AssemblyReference.cache
+C:\Users\82109\Documents\workspace\비트고급\C#\1013_2Client\1013_Client\obj\Debug\1013_Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\82109\Documents\workspace\비트고급\C#\1013_2Client\1013_Client\obj\Debug\1013_Client.csproj.CoreCompileInputs.cache
+C:\Users\82109\Documents\workspace\비트고급\C#\1013_2Client\1013_Client\obj\Debug\1013_Client.exe
+C:\Users\82109\Documents\workspace\비트고급\C#\1013_2Client\1013_Client\obj\Debug\1013_Client.pdb

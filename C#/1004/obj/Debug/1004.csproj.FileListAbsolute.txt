@@ -1,0 +1,8 @@
+C:\Users\82109\Documents\workspace\비트고급\C#\1004\bin\Debug\1004.exe.config
+C:\Users\82109\Documents\workspace\비트고급\C#\1004\bin\Debug\1004.exe
+C:\Users\82109\Documents\workspace\비트고급\C#\1004\bin\Debug\1004.pdb
+C:\Users\82109\Documents\workspace\비트고급\C#\1004\obj\Debug\1004.csproj.AssemblyReference.cache
+C:\Users\82109\Documents\workspace\비트고급\C#\1004\obj\Debug\1004.csproj.SuggestedBindingRedirects.cache
+C:\Users\82109\Documents\workspace\비트고급\C#\1004\obj\Debug\1004.csproj.CoreCompileInputs.cache
+C:\Users\82109\Documents\workspace\비트고급\C#\1004\obj\Debug\1004.exe
+C:\Users\82109\Documents\workspace\비트고급\C#\1004\obj\Debug\1004.pdb

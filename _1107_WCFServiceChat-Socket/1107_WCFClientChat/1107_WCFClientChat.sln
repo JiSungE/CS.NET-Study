@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1107_WCFClientChat", "1107_WCFClientChat\1107_WCFClientChat.csproj", "{075669AA-2B9F-4061-85AD-443BC187293A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{075669AA-2B9F-4061-85AD-443BC187293A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{075669AA-2B9F-4061-85AD-443BC187293A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{075669AA-2B9F-4061-85AD-443BC187293A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{075669AA-2B9F-4061-85AD-443BC187293A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {850B2BEF-045F-4667-AF5E-8F4479A4C25D}
+	EndGlobalSection
+EndGlobal

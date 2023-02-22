@@ -1,0 +1,11 @@
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1026_메모리DB\1026_메모리DB\bin\Debug\1026_메모리DB.exe.config
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1026_메모리DB\1026_메모리DB\bin\Debug\1026_메모리DB.exe
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1026_메모리DB\1026_메모리DB\bin\Debug\1026_메모리DB.pdb
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1026_메모리DB\1026_메모리DB\obj\Debug\1026_메모리DB.csproj.AssemblyReference.cache
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1026_메모리DB\1026_메모리DB\obj\Debug\1026_메모리DB.csproj.SuggestedBindingRedirects.cache
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1026_메모리DB\1026_메모리DB\obj\Debug\_1026_메모리DB.Form1.resources
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1026_메모리DB\1026_메모리DB\obj\Debug\_1026_메모리DB.Properties.Resources.resources
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1026_메모리DB\1026_메모리DB\obj\Debug\1026_메모리DB.csproj.GenerateResource.cache
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1026_메모리DB\1026_메모리DB\obj\Debug\1026_메모리DB.csproj.CoreCompileInputs.cache
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1026_메모리DB\1026_메모리DB\obj\Debug\1026_메모리DB.exe
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1026_메모리DB\1026_메모리DB\obj\Debug\1026_메모리DB.pdb

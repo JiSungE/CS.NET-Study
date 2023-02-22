@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\C#\1107_WCFServiceChat\1107_WCFServiceChat\bin\Debug\1107_WCFServiceChat.exe.config
+C:\Users\user\Desktop\C#\1107_WCFServiceChat\1107_WCFServiceChat\bin\Debug\1107_WCFServiceChat.exe
+C:\Users\user\Desktop\C#\1107_WCFServiceChat\1107_WCFServiceChat\bin\Debug\1107_WCFServiceChat.pdb
+C:\Users\user\Desktop\C#\1107_WCFServiceChat\1107_WCFServiceChat\obj\Debug\1107_WCFServiceChat.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\1107_WCFServiceChat\1107_WCFServiceChat\obj\Debug\1107_WCFServiceChat.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\C#\1107_WCFServiceChat\1107_WCFServiceChat\obj\Debug\1107_WCFServiceChat.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\1107_WCFServiceChat\1107_WCFServiceChat\obj\Debug\1107_WCFServiceChat.exe
+C:\Users\user\Desktop\C#\1107_WCFServiceChat\1107_WCFServiceChat\obj\Debug\1107_WCFServiceChat.pdb
+C:\Users\82109\Documents\카카오톡 받은 파일\_1107_WCFServiceChat\1107_WCFServiceChat\1107_WCFServiceChat\bin\Debug\1107_WCFServiceChat.exe.config
+C:\Users\82109\Documents\카카오톡 받은 파일\_1107_WCFServiceChat\1107_WCFServiceChat\1107_WCFServiceChat\bin\Debug\1107_WCFServiceChat.exe
+C:\Users\82109\Documents\카카오톡 받은 파일\_1107_WCFServiceChat\1107_WCFServiceChat\1107_WCFServiceChat\bin\Debug\1107_WCFServiceChat.pdb
+C:\Users\82109\Documents\카카오톡 받은 파일\_1107_WCFServiceChat\1107_WCFServiceChat\1107_WCFServiceChat\obj\Debug\1107_WCFServiceChat.csproj.AssemblyReference.cache
+C:\Users\82109\Documents\카카오톡 받은 파일\_1107_WCFServiceChat\1107_WCFServiceChat\1107_WCFServiceChat\obj\Debug\1107_WCFServiceChat.csproj.SuggestedBindingRedirects.cache
+C:\Users\82109\Documents\카카오톡 받은 파일\_1107_WCFServiceChat\1107_WCFServiceChat\1107_WCFServiceChat\obj\Debug\1107_WCFServiceChat.csproj.CoreCompileInputs.cache
+C:\Users\82109\Documents\카카오톡 받은 파일\_1107_WCFServiceChat\1107_WCFServiceChat\1107_WCFServiceChat\obj\Debug\1107_WCFServiceChat.exe
+C:\Users\82109\Documents\카카오톡 받은 파일\_1107_WCFServiceChat\1107_WCFServiceChat\1107_WCFServiceChat\obj\Debug\1107_WCFServiceChat.pdb

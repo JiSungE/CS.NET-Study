@@ -1,0 +1,11 @@
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1025_Account_DB\1025_Account_DB\bin\Debug\1025_Account_DB.exe.config
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1025_Account_DB\1025_Account_DB\bin\Debug\1025_Account_DB.exe
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1025_Account_DB\1025_Account_DB\bin\Debug\1025_Account_DB.pdb
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1025_Account_DB\1025_Account_DB\obj\Debug\1025_Account_DB.csproj.AssemblyReference.cache
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1025_Account_DB\1025_Account_DB\obj\Debug\1025_Account_DB.csproj.SuggestedBindingRedirects.cache
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1025_Account_DB\1025_Account_DB\obj\Debug\_1025_Account_DB.Form1.resources
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1025_Account_DB\1025_Account_DB\obj\Debug\_1025_Account_DB.Properties.Resources.resources
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1025_Account_DB\1025_Account_DB\obj\Debug\1025_Account_DB.csproj.GenerateResource.cache
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1025_Account_DB\1025_Account_DB\obj\Debug\1025_Account_DB.csproj.CoreCompileInputs.cache
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1025_Account_DB\1025_Account_DB\obj\Debug\1025_Account_DB.exe
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1025_Account_DB\1025_Account_DB\obj\Debug\1025_Account_DB.pdb

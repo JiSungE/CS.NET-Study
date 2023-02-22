@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <AccountIO>
+    <IOID>1</IOID>
+    <ACCID>1000</ACCID>
+    <INPUT>1</INPUT>
+    <OUTPUT>0</OUTPUT>
+    <BALANCE>1</BALANCE>
+    <IODATE>2022-10-26T15:56:54.7322096+09:00</IODATE>
+  </AccountIO>
+  <AccountIO>
+    <IOID>2</IOID>
+    <ACCID>1000</ACCID>
+    <INPUT>32</INPUT>
+    <OUTPUT>0</OUTPUT>
+    <BALANCE>33</BALANCE>
+    <IODATE>2022-10-26T16:50:23.7986571+09:00</IODATE>
+  </AccountIO>
+</DocumentElement>

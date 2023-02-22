@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\C#\1020_Client\1020_Client\bin\Debug\1020_Client.exe.config
+C:\Users\user\Desktop\C#\1020_Client\1020_Client\bin\Debug\1020_Client.exe
+C:\Users\user\Desktop\C#\1020_Client\1020_Client\bin\Debug\1020_Client.pdb
+C:\Users\user\Desktop\C#\1020_Client\1020_Client\obj\Debug\1020_Client.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\1020_Client\1020_Client\obj\Debug\1020_Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\C#\1020_Client\1020_Client\obj\Debug\_1020_Client.Form1.resources
+C:\Users\user\Desktop\C#\1020_Client\1020_Client\obj\Debug\_1020_Client.Properties.Resources.resources
+C:\Users\user\Desktop\C#\1020_Client\1020_Client\obj\Debug\1020_Client.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#\1020_Client\1020_Client\obj\Debug\1020_Client.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\1020_Client\1020_Client\obj\Debug\1020_Client.exe
+C:\Users\user\Desktop\C#\1020_Client\1020_Client\obj\Debug\1020_Client.pdb

@@ -1,0 +1,32 @@
+C:\Users\user\Desktop\C#\1107_WCFClientChat\1107_WCFClientChat\bin\Debug\1107_WCFClientChat.exe.config
+C:\Users\user\Desktop\C#\1107_WCFClientChat\1107_WCFClientChat\bin\Debug\1107_WCFClientChat.exe
+C:\Users\user\Desktop\C#\1107_WCFClientChat\1107_WCFClientChat\bin\Debug\1107_WCFClientChat.pdb
+C:\Users\user\Desktop\C#\1107_WCFClientChat\1107_WCFClientChat\obj\Debug\1107_WCFClientChat.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\1107_WCFClientChat\1107_WCFClientChat\obj\Debug\1107_WCFClientChat.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\C#\1107_WCFClientChat\1107_WCFClientChat\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\C#\1107_WCFClientChat\1107_WCFClientChat\obj\Debug\App.g.cs
+C:\Users\user\Desktop\C#\1107_WCFClientChat\1107_WCFClientChat\obj\Debug\1107_WCFClientChat_MarkupCompile.cache
+C:\Users\user\Desktop\C#\1107_WCFClientChat\1107_WCFClientChat\obj\Debug\1107_WCFClientChat_MarkupCompile.lref
+C:\Users\user\Desktop\C#\1107_WCFClientChat\1107_WCFClientChat\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\C#\1107_WCFClientChat\1107_WCFClientChat\obj\Debug\1107_WCFClientChat.g.resources
+C:\Users\user\Desktop\C#\1107_WCFClientChat\1107_WCFClientChat\obj\Debug\_1107_WCFClientChat.Properties.Resources.resources
+C:\Users\user\Desktop\C#\1107_WCFClientChat\1107_WCFClientChat\obj\Debug\1107_WCFClientChat.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#\1107_WCFClientChat\1107_WCFClientChat\obj\Debug\1107_WCFClientChat.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\1107_WCFClientChat\1107_WCFClientChat\obj\Debug\1107_WCFClientChat.exe
+C:\Users\user\Desktop\C#\1107_WCFClientChat\1107_WCFClientChat\obj\Debug\1107_WCFClientChat.pdb
+C:\Users\82109\Documents\카카오톡 받은 파일\_1107_WCFServiceChat\1107_WCFClientChat\1107_WCFClientChat\bin\Debug\1107_WCFClientChat.exe.config
+C:\Users\82109\Documents\카카오톡 받은 파일\_1107_WCFServiceChat\1107_WCFClientChat\1107_WCFClientChat\bin\Debug\1107_WCFClientChat.exe
+C:\Users\82109\Documents\카카오톡 받은 파일\_1107_WCFServiceChat\1107_WCFClientChat\1107_WCFClientChat\bin\Debug\1107_WCFClientChat.pdb
+C:\Users\82109\Documents\카카오톡 받은 파일\_1107_WCFServiceChat\1107_WCFClientChat\1107_WCFClientChat\obj\Debug\1107_WCFClientChat.csproj.AssemblyReference.cache
+C:\Users\82109\Documents\카카오톡 받은 파일\_1107_WCFServiceChat\1107_WCFClientChat\1107_WCFClientChat\obj\Debug\1107_WCFClientChat.csproj.SuggestedBindingRedirects.cache
+C:\Users\82109\Documents\카카오톡 받은 파일\_1107_WCFServiceChat\1107_WCFClientChat\1107_WCFClientChat\obj\Debug\MainWindow.g.cs
+C:\Users\82109\Documents\카카오톡 받은 파일\_1107_WCFServiceChat\1107_WCFClientChat\1107_WCFClientChat\obj\Debug\App.g.cs
+C:\Users\82109\Documents\카카오톡 받은 파일\_1107_WCFServiceChat\1107_WCFClientChat\1107_WCFClientChat\obj\Debug\1107_WCFClientChat_MarkupCompile.cache
+C:\Users\82109\Documents\카카오톡 받은 파일\_1107_WCFServiceChat\1107_WCFClientChat\1107_WCFClientChat\obj\Debug\1107_WCFClientChat_MarkupCompile.lref
+C:\Users\82109\Documents\카카오톡 받은 파일\_1107_WCFServiceChat\1107_WCFClientChat\1107_WCFClientChat\obj\Debug\MainWindow.baml
+C:\Users\82109\Documents\카카오톡 받은 파일\_1107_WCFServiceChat\1107_WCFClientChat\1107_WCFClientChat\obj\Debug\1107_WCFClientChat.g.resources
+C:\Users\82109\Documents\카카오톡 받은 파일\_1107_WCFServiceChat\1107_WCFClientChat\1107_WCFClientChat\obj\Debug\_1107_WCFClientChat.Properties.Resources.resources
+C:\Users\82109\Documents\카카오톡 받은 파일\_1107_WCFServiceChat\1107_WCFClientChat\1107_WCFClientChat\obj\Debug\1107_WCFClientChat.csproj.GenerateResource.cache
+C:\Users\82109\Documents\카카오톡 받은 파일\_1107_WCFServiceChat\1107_WCFClientChat\1107_WCFClientChat\obj\Debug\1107_WCFClientChat.csproj.CoreCompileInputs.cache
+C:\Users\82109\Documents\카카오톡 받은 파일\_1107_WCFServiceChat\1107_WCFClientChat\1107_WCFClientChat\obj\Debug\1107_WCFClientChat.exe
+C:\Users\82109\Documents\카카오톡 받은 파일\_1107_WCFServiceChat\1107_WCFClientChat\1107_WCFClientChat\obj\Debug\1107_WCFClientChat.pdb

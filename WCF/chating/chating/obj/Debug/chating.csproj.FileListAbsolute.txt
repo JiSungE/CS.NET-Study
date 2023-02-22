@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\고급\WCF\chating\chating\obj\Debug\chating.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\고급\WCF\chating\chating\obj\Debug\chating.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\고급\WCF\chating\chating\obj\Debug\chating.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\고급\WCF\chating\chating\bin\Debug\chating.exe.config
+C:\Users\user\Desktop\고급\WCF\chating\chating\bin\Debug\chating.exe
+C:\Users\user\Desktop\고급\WCF\chating\chating\bin\Debug\chating.pdb
+C:\Users\user\Desktop\고급\WCF\chating\chating\obj\Debug\chating.exe
+C:\Users\user\Desktop\고급\WCF\chating\chating\obj\Debug\chating.pdb

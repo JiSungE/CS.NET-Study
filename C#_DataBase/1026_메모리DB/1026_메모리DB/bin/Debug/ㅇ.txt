@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Custom>
+    <CID>1</CID>
+    <CNAME>김지성</CNAME>
+    <PHONE>010</PHONE>
+    <ADDR>111</ADDR>
+  </Custom>
+</DocumentElement>

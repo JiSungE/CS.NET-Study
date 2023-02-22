@@ -1,0 +1,8 @@
+C:\Users\82109\Documents\workspace\비트고급\C#\1006_재고관리프로그램\obj\Debug\1006_재고관리프로그램.csproj.AssemblyReference.cache
+C:\Users\82109\Documents\workspace\비트고급\C#\1006_재고관리프로그램\obj\Debug\1006_재고관리프로그램.csproj.SuggestedBindingRedirects.cache
+C:\Users\82109\Documents\workspace\비트고급\C#\1006_재고관리프로그램\obj\Debug\1006_재고관리프로그램.csproj.CoreCompileInputs.cache
+C:\Users\82109\Documents\workspace\비트고급\C#\1006_재고관리프로그램\bin\Debug\1006_재고관리프로그램.exe.config
+C:\Users\82109\Documents\workspace\비트고급\C#\1006_재고관리프로그램\bin\Debug\1006_재고관리프로그램.exe
+C:\Users\82109\Documents\workspace\비트고급\C#\1006_재고관리프로그램\bin\Debug\1006_재고관리프로그램.pdb
+C:\Users\82109\Documents\workspace\비트고급\C#\1006_재고관리프로그램\obj\Debug\1006_재고관리프로그램.exe
+C:\Users\82109\Documents\workspace\비트고급\C#\1006_재고관리프로그램\obj\Debug\1006_재고관리프로그램.pdb

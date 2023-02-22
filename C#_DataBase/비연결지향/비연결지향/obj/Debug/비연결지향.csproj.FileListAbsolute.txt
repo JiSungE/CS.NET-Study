@@ -1,0 +1,11 @@
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\비연결지향\비연결지향\bin\Debug\비연결지향.exe.config
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\비연결지향\비연결지향\bin\Debug\비연결지향.exe
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\비연결지향\비연결지향\bin\Debug\비연결지향.pdb
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\비연결지향\비연결지향\obj\Debug\비연결지향.csproj.AssemblyReference.cache
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\비연결지향\비연결지향\obj\Debug\비연결지향.csproj.SuggestedBindingRedirects.cache
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\비연결지향\비연결지향\obj\Debug\비연결지향.Form1.resources
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\비연결지향\비연결지향\obj\Debug\비연결지향.Properties.Resources.resources
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\비연결지향\비연결지향\obj\Debug\비연결지향.csproj.GenerateResource.cache
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\비연결지향\비연결지향\obj\Debug\비연결지향.csproj.CoreCompileInputs.cache
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\비연결지향\비연결지향\obj\Debug\비연결지향.exe
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\비연결지향\비연결지향\obj\Debug\비연결지향.pdb

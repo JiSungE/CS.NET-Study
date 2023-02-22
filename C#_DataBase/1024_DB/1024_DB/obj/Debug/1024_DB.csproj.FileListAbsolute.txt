@@ -1,0 +1,14 @@
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1024_DB\1024_DB\bin\Debug\1024_DB.exe.config
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1024_DB\1024_DB\bin\Debug\1024_DB.exe
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1024_DB\1024_DB\bin\Debug\1024_DB.pdb
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1024_DB\1024_DB\obj\Debug\1024_DB.csproj.AssemblyReference.cache
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1024_DB\1024_DB\obj\Debug\1024_DB.csproj.SuggestedBindingRedirects.cache
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1024_DB\1024_DB\obj\Debug\_1024_DB.Properties.Resources.resources
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1024_DB\1024_DB\obj\Debug\1024_DB.csproj.GenerateResource.cache
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1024_DB\1024_DB\obj\Debug\1024_DB.csproj.CoreCompileInputs.cache
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1024_DB\1024_DB\obj\Debug\1024_DB.exe
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1024_DB\1024_DB\obj\Debug\1024_DB.pdb
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1024_DB\1024_DB\obj\Debug\_1024_DB.FormProduct.resources
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1024_DB\1024_DB\obj\Debug\_1024_DB.MainForm.resources
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1024_DB\1024_DB\obj\Debug\_1024_DB.FormCustom.resources
+C:\Users\82109\Documents\workspace\비트고급\C#_DataBase\1024_DB\1024_DB\obj\Debug\_1024_DB.FormSale.resources

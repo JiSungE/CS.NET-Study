@@ -1,0 +1,8 @@
+C:\Users\82109\Documents\workspace\비트고급\C#_WinForm\1020_\1020_\bin\Debug\1020_.exe.config
+C:\Users\82109\Documents\workspace\비트고급\C#_WinForm\1020_\1020_\bin\Debug\1020_.exe
+C:\Users\82109\Documents\workspace\비트고급\C#_WinForm\1020_\1020_\bin\Debug\1020_.pdb
+C:\Users\82109\Documents\workspace\비트고급\C#_WinForm\1020_\1020_\obj\Debug\1020_.csproj.AssemblyReference.cache
+C:\Users\82109\Documents\workspace\비트고급\C#_WinForm\1020_\1020_\obj\Debug\1020_.csproj.SuggestedBindingRedirects.cache
+C:\Users\82109\Documents\workspace\비트고급\C#_WinForm\1020_\1020_\obj\Debug\1020_.csproj.CoreCompileInputs.cache
+C:\Users\82109\Documents\workspace\비트고급\C#_WinForm\1020_\1020_\obj\Debug\1020_.exe
+C:\Users\82109\Documents\workspace\비트고급\C#_WinForm\1020_\1020_\obj\Debug\1020_.pdb

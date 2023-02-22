@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\고급\WCF\chatingClient1\chatingClient1\bin\Debug\chatingClient1.exe.config
+C:\Users\user\Desktop\고급\WCF\chatingClient1\chatingClient1\bin\Debug\chatingClient1.exe
+C:\Users\user\Desktop\고급\WCF\chatingClient1\chatingClient1\bin\Debug\chatingClient1.pdb
+C:\Users\user\Desktop\고급\WCF\chatingClient1\chatingClient1\obj\Debug\chatingClient1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\고급\WCF\chatingClient1\chatingClient1\obj\Debug\chatingClient1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\고급\WCF\chatingClient1\chatingClient1\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\고급\WCF\chatingClient1\chatingClient1\obj\Debug\App.g.cs
+C:\Users\user\Desktop\고급\WCF\chatingClient1\chatingClient1\obj\Debug\chatingClient1_MarkupCompile.cache
+C:\Users\user\Desktop\고급\WCF\chatingClient1\chatingClient1\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\고급\WCF\chatingClient1\chatingClient1\obj\Debug\chatingClient1.g.resources
+C:\Users\user\Desktop\고급\WCF\chatingClient1\chatingClient1\obj\Debug\chatingClient1.Properties.Resources.resources
+C:\Users\user\Desktop\고급\WCF\chatingClient1\chatingClient1\obj\Debug\chatingClient1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\고급\WCF\chatingClient1\chatingClient1\obj\Debug\chatingClient1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\고급\WCF\chatingClient1\chatingClient1\obj\Debug\chatingClient1.exe
+C:\Users\user\Desktop\고급\WCF\chatingClient1\chatingClient1\obj\Debug\chatingClient1.pdb

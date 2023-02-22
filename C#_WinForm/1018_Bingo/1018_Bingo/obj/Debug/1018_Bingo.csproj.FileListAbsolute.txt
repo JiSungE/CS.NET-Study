@@ -1,0 +1,12 @@
+C:\Users\82109\Documents\workspace\비트고급\C#_WinForm\1018_Bingo\1018_Bingo\bin\Debug\1018_Bingo.exe.config
+C:\Users\82109\Documents\workspace\비트고급\C#_WinForm\1018_Bingo\1018_Bingo\bin\Debug\1018_Bingo.exe
+C:\Users\82109\Documents\workspace\비트고급\C#_WinForm\1018_Bingo\1018_Bingo\bin\Debug\1018_Bingo.pdb
+C:\Users\82109\Documents\workspace\비트고급\C#_WinForm\1018_Bingo\1018_Bingo\obj\Debug\1018_Bingo.csproj.AssemblyReference.cache
+C:\Users\82109\Documents\workspace\비트고급\C#_WinForm\1018_Bingo\1018_Bingo\obj\Debug\1018_Bingo.csproj.SuggestedBindingRedirects.cache
+C:\Users\82109\Documents\workspace\비트고급\C#_WinForm\1018_Bingo\1018_Bingo\obj\Debug\_1018_Bingo.FormBingo.resources
+C:\Users\82109\Documents\workspace\비트고급\C#_WinForm\1018_Bingo\1018_Bingo\obj\Debug\_1018_Bingo.Properties.Resources.resources
+C:\Users\82109\Documents\workspace\비트고급\C#_WinForm\1018_Bingo\1018_Bingo\obj\Debug\1018_Bingo.csproj.GenerateResource.cache
+C:\Users\82109\Documents\workspace\비트고급\C#_WinForm\1018_Bingo\1018_Bingo\obj\Debug\1018_Bingo.csproj.CoreCompileInputs.cache
+C:\Users\82109\Documents\workspace\비트고급\C#_WinForm\1018_Bingo\1018_Bingo\obj\Debug\1018_Bingo.exe
+C:\Users\82109\Documents\workspace\비트고급\C#_WinForm\1018_Bingo\1018_Bingo\obj\Debug\1018_Bingo.pdb
+C:\Users\82109\Documents\workspace\비트고급\C#_WinForm\1018_Bingo\1018_Bingo\obj\Debug\_1018_Bingo.Form1.resources
